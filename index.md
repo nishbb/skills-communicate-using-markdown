@@ -5,3 +5,6 @@
 ![Image of Boxertocat](https://octodex.github.com/images/boxertocat_octodex.jpg)
 
 
+``` javascript
+document.getElementById("demo").innerHTML = "Hello JavaScript";
+```
